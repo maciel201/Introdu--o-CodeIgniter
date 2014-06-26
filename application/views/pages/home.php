@@ -25,8 +25,7 @@
 
 <div class="fim"></div>
 <p>
-    <a href="http://127.0.0.1/aulaci/index.php/sobre"class="sobre">
+    <a href="http://127.0.0.1/aulaci/index.php/sobre">
         Sobre esta aula
     </a>
-    
 </p>

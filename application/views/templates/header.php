@@ -6,6 +6,10 @@
             <?php echo $title ?> - Tutorial de CodeIgniter 2 
         </title>
         <style type="text/css">
+            body{
+                text-align: center;
+            }
+            
             hr{margin: 20px auto; width: 500px; 
                display: block;}
             #fundo{
@@ -41,13 +45,11 @@
             }
             ol{background-color: rgba(255,255,255,0.6);}
             
-            body{
-                text-align: center;
-            }
+            
         </style>
     </head>
     <body>
         <h1>Tutorial de CodeIgniter 2</h1>
-        <h2>Páginas estáticas</h2>
+        
         <hr>
     
