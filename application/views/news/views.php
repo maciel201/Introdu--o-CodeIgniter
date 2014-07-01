@@ -2,7 +2,7 @@
 
 <?php echo '<h2>'.$news_item['title'].'</h2>';?>
 
-<?php echo '<p><h3><style="color:purple;">Autor: ' . $news_item['autor'] . '</style></h3></p>'; ?>
+<?php echo '<p><h3>Autor: ' . $news_item['autor'] . '</h3></p>'; ?>
 
 <?php echo $news_item['text']; ?>
 
