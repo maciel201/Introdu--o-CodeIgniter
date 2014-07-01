@@ -8,8 +8,8 @@
         <style type="text/css">
             body{
                 text-align: center;
-            }
-            
+                background-color: #fbcc6f ;
+                
             hr{margin: 20px auto; width: 500px; 
                display: block;}
             #fundo{
@@ -21,7 +21,7 @@
                 top: 50px;
                 left: 100px;
                 z-index: -10;
-                width: 80%;
+                width: 86%;
                 height: 600px;                
             }
             h1, h2{
